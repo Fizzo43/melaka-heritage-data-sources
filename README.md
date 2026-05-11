@@ -11,10 +11,10 @@ All content in this project is sourced from publicly available websites. No prim
 
 | Source | URL | Content Used | Date Accessed |
 |--------|-----|--------------|----------------|
-| UNESCO World Heritage Centre | https://whc.unesco.org/en/list/1223/ | General description of Melaka as a UNESCO site | 15 Jan 2026 |
-| Pustaka Ilmu Arkib negara malaysia | https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/mercu-tanda/kota-a-famosa-melaka | Historical facts about Kota A'Famosa | 20 Jan 2026 |
-| Muzium Istana Kesultanan Melaka (PERZIM) | https://perzim.gov.my/muzium-galeri/ | Museum description and architecture facts | 22 Jan 2026 |
-| National Archives of Malaysia | http://www.arkib.gov.my/ | Background historical context | 25 Jan 2026 |
+| UNESCO World Heritage Centre | https://whc.unesco.org/en/list/1223/ | General description of Melaka as a UNESCO site | 8 Jan 2026 |
+| Pustaka Ilmu Arkib negara malaysia | https://pustakailmu.arkib.gov.my/index.php/ms/pustaka-ilmu/mercu-tanda/kota-a-famosa-melaka | Historical facts about Kota A'Famosa | 8 Jan 2026 |
+| Muzium Istana Kesultanan Melaka (PERZIM) | https://perzim.gov.my/muzium-galeri/ | Museum description and architecture facts | 8 Jan 2026 |
+| Aisan Historical Architecture | [http://www.arkib.gov.my/](https://www.orientalarchitecture.com/sid/508/malaysia/melaka/st-pauls-church) | Historical facts about St. Paul's Church | 8 May 2026 |
 
 ## Notes
 
