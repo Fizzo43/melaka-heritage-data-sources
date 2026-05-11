@@ -20,7 +20,7 @@ All content in this project is sourced from publicly available websites. No prim
 
 - All data is **secondary**, publicly available, and used for educational/research purposes.
 - No sensitive, identifiable, or personal data is involved.
-- This repository serves as documentation for ethics review (F.BERC 4, REC 9E).
+- This repository serves as documentation for ethics review 
 
 ## Contact
 
