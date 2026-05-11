@@ -13,7 +13,7 @@ All content in this project is sourced from publicly available websites. No prim
 |--------|-----|--------------|----------------|
 | UNESCO World Heritage Centre | https://whc.unesco.org/en/list/1223/ | General description of Melaka as a UNESCO site | 15 Jan 2026 |
 | Official Melaka Heritage Portal | https://www.melaka.gov.my/en/tourism/heritage | Historical facts about A'Famosa, St. Paul's Church | 20 Jan 2026 |
-| Muzium Istana Kesultanan Melaka (PERZIM) | https://www.perzim.gov.my/ms/muzium/muzium-istana-kesultanan-melaka | Museum description and architecture facts | 22 Jan 2026 |
+| Muzium Istana Kesultanan Melaka (PERZIM) | https://perzim.gov.my/muzium-galeri/ | Museum description and architecture facts | 22 Jan 2026 |
 | National Archives of Malaysia | http://www.arkib.gov.my/ | Background historical context | 25 Jan 2026 |
 
 ## Notes
